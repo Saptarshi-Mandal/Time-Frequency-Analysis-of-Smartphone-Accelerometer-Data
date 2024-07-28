@@ -27,11 +27,18 @@ The project uses a real-world benchmark dataset consisting of 60 million acceler
 4. **Evaluation**: The model's performance is compared with baseline methods and other CNN architectures.
 
 ## Baseline Methods
-- Multi-layer Perceptron (MLP)
+
+Non-Deep Methods
 - K-Nearest Neighbors (KNN)
 - Logistic Regression (LR)
 - Random Forest (RF)
 - Decision Tree (DT)
+
+Deep Methods
+- Multi-layer Perceptron (MLP)
+- LeNet
+- AlexNet
+- ZFNet
 
 ## Performance Comparison
 The proposed CNN model is compared against other CNN architectures such as LeNet-5, AlexNet, and ZFNet, demonstrating superior performance across all metrics.
